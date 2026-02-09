@@ -93,6 +93,7 @@ requests
 | `QL_CLIENT_ID` | 青龙应用 Client ID | ✅ | `xxx` |
 | `QL_CLIENT_SECRET` | 青龙应用 Client Secret | ✅ | `xxx` |
 | `TWO_FACTOR_WAIT` | 2FA 等待时间（秒） | ❌ | `120` |
+| `PROXY_DSN` | 代理配置 | ❌ | `socks5://user:pass@host:port` |
 
 ![环境变量](./img/青龙面板添加环境变量.png)
 
@@ -295,6 +296,7 @@ chromedriver --version
 **如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！**
 
 ---
+
 
 
 
